@@ -13,5 +13,5 @@ Georgia interactive county-level map of confirmed Covid-19 cases on a population
 
 
 ## Other Data Sources
-* []()
+* [North Carolina](https://www.ncdhhs.gov/covid-19-case-count-nc). County level data, but not available for download.
 * [South Carolina](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19/monitoring-testing-covid-19). Data updated on Wednesday afternoons
