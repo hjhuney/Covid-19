@@ -2,9 +2,8 @@
 
 Georgia interactive county-level map of confirmed Covid-19 cases on a population adjusted basis
 
-[Georgia Covid-19 Map](https://hjhuney.github.io/Covid-19/viz/ga_covid.html)
-
-[AL / GA / TN Covid-19 Map](https://hjhuney.github.io/Covid-19/viz/al_ga_tn_covid.html)
+* [Georgia Covid-19 Map](https://hjhuney.github.io/Covid-19/viz/ga_covid.html)
+* [AL / GA / TN Covid-19 Map](https://hjhuney.github.io/Covid-19/viz/al_ga_tn_covid.html)
 
 
 
