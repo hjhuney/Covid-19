@@ -8,6 +8,7 @@ Georgia interactive county-level map of confirmed Covid-19 cases on a population
 
 ## Updated Daily Data Sources
 
+* [Alabama Public Health](http://alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html)
 * [Georgia Dept of Health](https://dph.georgia.gov/covid-19-daily-status-report)
 * [Tennessee Dept of Health](https://www.tn.gov/health/cedep/ncov.html)
 
