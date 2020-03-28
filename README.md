@@ -12,6 +12,7 @@ Georgia interactive county-level map of confirmed Covid-19 cases on a population
 * [The Covid Tracking Project](https://covidtracking.com/api/)
 * [Alabama Public Health](http://alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html)
 * [Georgia Dept of Health](https://dph.georgia.gov/covid-19-daily-status-report)
+* [Mississippi Dept of Health](https://msdh.ms.gov/msdhsite/_static/14,0,420.html)
 * [North Carolina Dept of HHS](https://www.ncdhhs.gov/covid-19-case-count-nc#nc-counties-with-cases)
 * [Tennessee Dept of Health](https://www.tn.gov/health/cedep/ncov.html)
 
