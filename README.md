@@ -11,6 +11,7 @@ Georgia interactive county-level map of confirmed Covid-19 cases on a population
 ## Updated Daily Data Sources
 
 * [The Covid Tracking Project](https://covidtracking.com/api/)
+* [New York Times Covid Data](https://github.com/nytimes/covid-19-data)
 * [Alabama Public Health](http://alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html)
 * [Georgia Dept of Health](https://dph.georgia.gov/covid-19-daily-status-report)
 * [Mississippi Dept of Health](https://msdh.ms.gov/msdhsite/_static/14,0,420.html)
